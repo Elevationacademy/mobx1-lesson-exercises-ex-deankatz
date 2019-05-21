@@ -12,7 +12,6 @@ export class ShoppingList {
     addItem = () => {
         // your code here
     }
-    
     editItem = () => {
         // your code here
     }
